@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello For All In Java!</h2>
+<h2>Hello World!</h2>
 </body>
 </html>
